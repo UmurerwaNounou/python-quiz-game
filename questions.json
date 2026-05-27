@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": 2,
+    "category": "General Knowledge"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": 1,
+    "category": "Science"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Unit"],
+    "answer": 0,
+    "category": "Tech"
+  },
+  {
+    "question": "Which language is Python named after?",
+    "options": ["A snake", "Monty Python", "A mathematician", "A city"],
+    "answer": 1,
+    "category": "Tech"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["WO", "HO", "H2O", "OW"],
+    "answer": 2,
+    "category": "Science"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2,
+    "category": "General Knowledge"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Markup Logic", "Home Tool Markup Language"],
+    "answer": 0,
+    "category": "Tech"
+  },
+  {
+    "question": "What is the speed of light (approx)?",
+    "options": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "answer": 1,
+    "category": "Science"
+  },
+  {
+    "question": "Which country invented the World Wide Web?",
+    "options": ["USA", "Japan", "UK", "Germany"],
+    "answer": 2,
+    "category": "Tech"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": 3,
+    "category": "General Knowledge"
+  }
+]
