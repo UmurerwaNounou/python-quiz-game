@@ -1,4 +1,4 @@
-# 🧠 Python Quiz Game
+#  Python Quiz Game🧠
 
 > A colorful terminal quiz game built in Python — test your knowledge across General Knowledge, Science, and Tech!
 
@@ -24,6 +24,18 @@ Question 1/10
   D. Saturn
 
   Your answer (A/B/C/D):
+
+Question 2/10
+
+ What is the only country that is also an entire continent?
+
+A. Brazil
+B. Canada
+C. Australia
+D. India
+
+  Your answer (A/B/C/D):
+
 ```
 
 ## Features
